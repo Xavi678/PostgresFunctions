@@ -2,10 +2,12 @@
 
 ## 1) Quin serà el resultat obtingut desprès d’executar la funció Exemple ?
 
+<img src="https://github.com/Xavi678/PostgresFunctions/blob/master/Postgres5/imatges/1.png">
 
 
 ## 2) Creeu una taula, anomenada RegEntrada, amb els següents camps:
 
+<img src="https://github.com/Xavi678/PostgresFunctions/blob/master/Postgres5/imatges/2.png">
 
 ## 3) Teclejeu les dues funcions següents i responeu les preguntes:
 Nota: busqueu la funció now en la vostra versió de Postgres que retorna la data actual.
